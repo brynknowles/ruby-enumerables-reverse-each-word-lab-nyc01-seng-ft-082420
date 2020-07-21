@@ -28,6 +28,9 @@ new_string
 end
 
 # PSEUDOCODE FOR COLLECT
+# define the method that takes one argument
+# create a variable for the original string and...
+# ...set the variable equal to the string
 # use Array.collect() to return 
 
 def reverse_each_word(sentence)

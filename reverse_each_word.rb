@@ -31,4 +31,8 @@ end
 # use Array.collect() to return 
 
 def reverse_each_word(sentence)
+  original_sentence = sentence.split
+  new_sentence = []
+  original_sentence.collect do |word|
+    
 end

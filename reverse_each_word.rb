@@ -28,6 +28,7 @@ new_string
 end
 
 # PSEUDOCODE FOR COLLECT
+# use Array.collect() to return 
 
 def reverse_each_word(sentence)
 end

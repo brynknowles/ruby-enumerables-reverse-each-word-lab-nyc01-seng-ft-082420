@@ -27,7 +27,7 @@ new_string = new_sentence.join(" ")
 new_string
 end
 
+# PSEUDOCODE FOR COLLECT
+
 def reverse_each_word(sentence)
 end
-
-# PSEUDOCODE FOR COLLECT

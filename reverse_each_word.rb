@@ -28,10 +28,12 @@ new_string
 end
 
 # PSEUDOCODE FOR COLLECT
-# define the method that takes one argument
-# create a variable for the original string and...
-# ...set the variable equal to the string
-# use Array.collect() to return 
+# define a method that takes in a string as an argument
+# convert the original string into an array of strings -- string.split("")
+# create a variable that will hold the new string array
+# use Array.collect() to iterate over the Array
+# append the reversed array into the new string array
+# join the new string array into one string and return it
 
 def reverse_each_word(sentence)
   original_sentence = sentence.split
